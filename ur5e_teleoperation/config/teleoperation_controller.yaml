@@ -1,0 +1,3 @@
+# scale factor for linear and angular velocity
+controller_name: twist_controller
+scale: 0.1    
